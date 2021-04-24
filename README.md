@@ -5,11 +5,14 @@
 
 [-]   Options:
               -h or --help      :   方法说明
+              
               -u or --url=      :   站点URL地址
+              
               -f or --file=     :   批量文件检测
               
 #use
 
 python3 tianqing.py(tianqingSQL.py) -u http://xxx.xxx.xxx.xx
+
 python3 tianqing.py(tianqingSQL.py) -f ip.txt
 
